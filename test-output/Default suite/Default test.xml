@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-I1HSKP5" failures="0" tests="1" name="com.projectname.qa.TestCases.RegistrationTest" time="12.737" errors="0" timestamp="18 Aug 2022 07:28:18 GMT">
+  <testcase classname="com.projectname.qa.TestCases.RegistrationTest" name="FacebookRegistrationPageTest" time="2.891"/>
+</testsuite>
